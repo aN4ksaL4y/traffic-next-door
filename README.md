@@ -1,5 +1,5 @@
 # traffic-next-door
-The traffic from neightbor probably helps improve your site existence
+The traffic from neightbors probably helps improving your site existence
 
 <h1>Manfaat Lalu Lintas dari Situs Tetangga untuk Eksistensi Situs Anda</h1>
 <img src="tetangga.jpeg" style="max-width: 80%; margin-left:10%; margin-right:10%; border-radius: 25px"/>
